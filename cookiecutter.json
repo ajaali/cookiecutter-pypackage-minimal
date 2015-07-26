@@ -1,11 +1,11 @@
 {
-    "author_name": "Sam Clements",
-    "author_email": "sam@borntyping.co.uk",
+    "author_name": "Ahmed Ali",
+    "author_email": "ahmed@ajaali.com",
 
     "package_name": "cookiecutter-pypackage-minimal",
-    "package_version": "0.1.0",
+    "package_version": "0.1",
     "package_description": "An opinionated, minimal cookiecutter template for Python packages",
-    "package_url": "https://github.com/borntyping/cookiecutter-pypackage-minimal",
+    "package_url": "https://github.com/ajaali/cookiecutter-pypackage-minimal",
     
     "readme_pypi_badge": true,
     "readme_travis_badge": true,
